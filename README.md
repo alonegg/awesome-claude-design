@@ -38,7 +38,7 @@ You give it a starting point (an aesthetic, a vibe, or a `DESIGN.md`), and it sc
 
 ## What is DESIGN.md?
 
-[`DESIGN.md`](https://getdesign.md/what-is-design-md) is a single plain-text markdown file that describes a brand's visual language in a format AI agents can actually act on. The concept was first introduced by Google Stitch and built into a real, comparable collection by at 🎨[**getdesign.md**](https://getdesign.md/what-is-design-md). 
+[`DESIGN.md`](https://getdesign.md/what-is-design-md) is a single plain-text markdown file that describes a brand's visual language in a format AI agents can actually act on. The concept was first introduced by Google Stitch and built into a real, comparable collection by at 🎨[**getdesign.md**](https://getdesign.md/). 
 
 > The core idea: keep **token, rule, and rationale in the same file**. A Figma export tells you *what* to use but skips *why*. A brand guideline PDF talks to humans ("approachable yet premium") but is too loose for an agent. `DESIGN.md` sits in the middle. Specific enough for the agent to make its next decision, and carrying the *why* so it can stay on-system when it hits a case the file never covered.
 
@@ -65,7 +65,7 @@ Claude Design can use `DESIGN.md` as its source of truth. Hand it one, and the f
 <br/>
 
 - **Option B. Start from a prototype**
-   Go to [claude.ai/design](https://claude.ai/design), create a new prototype, attach the `DESIGN.md` in the chat, and type: **"Create a design system from this DESIGN.md"**
+   Go to dashboard, create a new prototype, attach the `DESIGN.md` in the chat, and type: **"Create a design system from this DESIGN.md"**
 
 ![setup-b](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/video/option-b.gif)
 
